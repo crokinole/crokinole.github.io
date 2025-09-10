@@ -18,5 +18,5 @@ h) In Kehräsaari style play, a game consists of 2-3 rounds played in a "best ou
 
 - d). If two discs remain stacked on top of each other, they shall remain so until struck by disks
 - e). If one discs is in the center hole and another disc is stacked on top of it and
-  - 1. if the second disk does not touch playing surface, it is considered a 20
-  - 2. if the second disk does touch playing surface, it is carefully repositioned after removing the 20 as close to original position as possible
+  - if the second disk does not touch playing surface, it is considered a 20
+  - if the second disk does touch playing surface, it is carefully repositioned after removing the 20 as close to original position as possible
