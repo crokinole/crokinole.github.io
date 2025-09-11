@@ -12,7 +12,7 @@ f) Players take turns clockwise around the board to start the following rounds
 
 ### 4) Scoring
 
-h) In Kehräsaari style play, a game consists of 2-3 rounds played in a "best out of two" manner. Additionally, minimum lenght of a seating is three rounds.
+h) In Kehräsaari style play, a game consists of 2-3 rounds played in a "two out of three" manner. Additionally, minimum lenght of a seating is three rounds.
 
 ### 6) Other
 
